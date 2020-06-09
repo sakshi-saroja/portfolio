@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <title>Sakshi's Portfolio</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
